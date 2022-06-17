@@ -22,7 +22,7 @@
     <spring-boot-admin.version>2.1.6</spring-boot-admin.version>
     <springfox.version>2.9.2</springfox.version>
     <mybatis-plus.version>3.2.0</mybatis-plus.version>
-    <fastjson.version>1.2.50</fastjson.version>
+    <fastjson.version>1.2.83</fastjson.version>
     <commons-lang3.version>3.4</commons-lang3.version>
     <commons-io.version>2.5</commons-io.version>
     <commons-codec.version>1.10</commons-codec.version>
